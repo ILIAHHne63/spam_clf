@@ -1,1 +1,1 @@
-# spam_clf
+# Spam detection task
